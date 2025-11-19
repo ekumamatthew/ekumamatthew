@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ekumamatthew
-- 👀 I’m interested in ... Programing
-- 🌱 I’m currently learning ... App development
-- 💞️ I’m looking to collaborate on ... Android studio
+- frontend web and mobile app developer
 - 📫 How to reach me ... Email- ekumamatthew1@gmail.com contact 09059654107
  
 <!---
